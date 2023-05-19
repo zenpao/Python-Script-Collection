@@ -1,0 +1,2 @@
+'Name': 'John Doe', 'Email': 'jj22doe@gmail.com', 'Address': "Baker's St."
+'Name': 'Ella Finch', 'Email': 'ellafinch0012@yahoo.com', 'Address': 'Shuntug St.'
