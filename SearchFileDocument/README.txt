@@ -12,3 +12,13 @@ It will yield a "search_results.txt" with possible list of matched results.
 4) If results are too many, you can use "searchdocument_resultconverter.py" to convert each line into hyperlinks, for you to be able to check each local file one by one using the browser as a trigger. Just enter "python searchdocument_resultsconverter.py" in the cmd.
 
 That's it!
+
+
+----
+Just a note, pip install the following if it does not work:
+os
+fnmatch
+tqdm
+BeautifulSoup
+chardet
+pdfplumber
