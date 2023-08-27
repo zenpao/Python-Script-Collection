@@ -60,7 +60,7 @@ THIS IS A TOOL FOR SEARCHING FILES WITH PARAMETERS.
 
 INTENDED FOR SPECIFIC-USE ONLY.
 (Such as: Documents with specific file names or content)
-========================NOTICE==========================
+=========================V2.0===========================
 """)
 
 # Prompt user for directory
